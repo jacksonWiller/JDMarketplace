@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xl6nHW0ADVIgYGBK4blWm7QZhCosCBorXXq8WqYXujyAYgtRyZT1dXXFKHZ+aVD0Wpi6jfGjjISuP18N6PVinQ==",
+  "success": true,
+  "projectFilePath": "/home/jackson/Área de Trabalho/Comprey Marketplace/JDMarketplace/JDMarketplace.WebApi/JDMarketplace.WebApi.csproj",
+  "expectedPackageFiles": [
+    "/home/jackson/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/jackson/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/jackson/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/jackson/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/jackson/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/jackson/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
