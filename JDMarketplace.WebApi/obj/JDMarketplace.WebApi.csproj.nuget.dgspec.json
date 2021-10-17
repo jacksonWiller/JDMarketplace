@@ -4,14 +4,14 @@
     "/home/jackson/Área de Trabalho/Comprey Marketplace/JDMarketplace/JDMarketplace.WebApi/JDMarketplace.WebApi.csproj": {}
   },
   "projects": {
-    "/home/jackson/Área de Trabalho/Comprey Marketplace/JDMarketplace/JDMarketplace.WebApi/JDMarketplace.WebApi.csproj": {
+    "/home/jackson/Área de Trabalho/Comprey Marketplace/JDMarketplace/JDMarketplace.Domain/JDMarketplace.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jackson/Área de Trabalho/Comprey Marketplace/JDMarketplace/JDMarketplace.WebApi/JDMarketplace.WebApi.csproj",
-        "projectName": "JDMarketplace.WebApi",
-        "projectPath": "/home/jackson/Área de Trabalho/Comprey Marketplace/JDMarketplace/JDMarketplace.WebApi/JDMarketplace.WebApi.csproj",
+        "projectUniqueName": "/home/jackson/Área de Trabalho/Comprey Marketplace/JDMarketplace/JDMarketplace.Domain/JDMarketplace.Domain.csproj",
+        "projectName": "JDMarketplace.Domain",
+        "projectPath": "/home/jackson/Área de Trabalho/Comprey Marketplace/JDMarketplace/JDMarketplace.Domain/JDMarketplace.Domain.csproj",
         "packagesPath": "/home/jackson/.nuget/packages/",
-        "outputPath": "/home/jackson/Área de Trabalho/Comprey Marketplace/JDMarketplace/JDMarketplace.WebApi/obj/",
+        "outputPath": "/home/jackson/Área de Trabalho/Comprey Marketplace/JDMarketplace/JDMarketplace.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jackson/.nuget/NuGet/NuGet.Config"
@@ -41,10 +41,177 @@
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/jackson/Área de Trabalho/Comprey Marketplace/JDMarketplace/JDMarketplace.Infraestructure/JDMarketplace.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jackson/Área de Trabalho/Comprey Marketplace/JDMarketplace/JDMarketplace.Infraestructure/JDMarketplace.Infraestructure.csproj",
+        "projectName": "JDMarketplace.Infraestructure",
+        "projectPath": "/home/jackson/Área de Trabalho/Comprey Marketplace/JDMarketplace/JDMarketplace.Infraestructure/JDMarketplace.Infraestructure.csproj",
+        "packagesPath": "/home/jackson/.nuget/packages/",
+        "outputPath": "/home/jackson/Área de Trabalho/Comprey Marketplace/JDMarketplace/JDMarketplace.Infraestructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jackson/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/jackson/Área de Trabalho/Comprey Marketplace/JDMarketplace/JDMarketplace.Domain/JDMarketplace.Domain.csproj": {
+                "projectPath": "/home/jackson/Área de Trabalho/Comprey Marketplace/JDMarketplace/JDMarketplace.Domain/JDMarketplace.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/jackson/Área de Trabalho/Comprey Marketplace/JDMarketplace/JDMarketplace.WebApi/JDMarketplace.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jackson/Área de Trabalho/Comprey Marketplace/JDMarketplace/JDMarketplace.WebApi/JDMarketplace.WebApi.csproj",
+        "projectName": "JDMarketplace.WebApi",
+        "projectPath": "/home/jackson/Área de Trabalho/Comprey Marketplace/JDMarketplace/JDMarketplace.WebApi/JDMarketplace.WebApi.csproj",
+        "packagesPath": "/home/jackson/.nuget/packages/",
+        "outputPath": "/home/jackson/Área de Trabalho/Comprey Marketplace/JDMarketplace/JDMarketplace.WebApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jackson/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/jackson/Área de Trabalho/Comprey Marketplace/JDMarketplace/JDMarketplace.Domain/JDMarketplace.Domain.csproj": {
+                "projectPath": "/home/jackson/Área de Trabalho/Comprey Marketplace/JDMarketplace/JDMarketplace.Domain/JDMarketplace.Domain.csproj"
+              },
+              "/home/jackson/Área de Trabalho/Comprey Marketplace/JDMarketplace/JDMarketplace.Infraestructure/JDMarketplace.Infraestructure.csproj": {
+                "projectPath": "/home/jackson/Área de Trabalho/Comprey Marketplace/JDMarketplace/JDMarketplace.Infraestructure/JDMarketplace.Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[5.6.3, )"
+              "version": "[6.2.3, )"
             }
           },
           "imports": [
