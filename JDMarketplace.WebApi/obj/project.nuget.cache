@@ -1,15 +1,36 @@
 {
   "version": 2,
-  "dgSpecHash": "xl6nHW0ADVIgYGBK4blWm7QZhCosCBorXXq8WqYXujyAYgtRyZT1dXXFKHZ+aVD0Wpi6jfGjjISuP18N6PVinQ==",
+  "dgSpecHash": "/H2LJ8+eHMnxih79Mfy/Mf/Vz6u0FDACdL8pUcWDPHoi4EBz55Havs6tWMhf724NqlaFw00bW0NGEixP2NcGTA==",
   "success": true,
   "projectFilePath": "/home/jackson/Área de Trabalho/Comprey Marketplace/JDMarketplace/JDMarketplace.WebApi/JDMarketplace.WebApi.csproj",
   "expectedPackageFiles": [
+    "/home/jackson/.nuget/packages/microsoft.aspnetcore.cryptography.internal/5.0.11/microsoft.aspnetcore.cryptography.internal.5.0.11.nupkg.sha512",
+    "/home/jackson/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/5.0.11/microsoft.aspnetcore.cryptography.keyderivation.5.0.11.nupkg.sha512",
+    "/home/jackson/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/5.0.11/microsoft.aspnetcore.identity.entityframeworkcore.5.0.11.nupkg.sha512",
+    "/home/jackson/.nuget/packages/microsoft.entityframeworkcore/5.0.11/microsoft.entityframeworkcore.5.0.11.nupkg.sha512",
+    "/home/jackson/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.11/microsoft.entityframeworkcore.abstractions.5.0.11.nupkg.sha512",
+    "/home/jackson/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.11/microsoft.entityframeworkcore.analyzers.5.0.11.nupkg.sha512",
+    "/home/jackson/.nuget/packages/microsoft.entityframeworkcore.relational/5.0.11/microsoft.entityframeworkcore.relational.5.0.11.nupkg.sha512",
     "/home/jackson/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/jackson/.nuget/packages/microsoft.extensions.caching.abstractions/5.0.0/microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "/home/jackson/.nuget/packages/microsoft.extensions.caching.memory/5.0.0/microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "/home/jackson/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "/home/jackson/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.2/microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "/home/jackson/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/home/jackson/.nuget/packages/microsoft.extensions.identity.core/5.0.11/microsoft.extensions.identity.core.5.0.11.nupkg.sha512",
+    "/home/jackson/.nuget/packages/microsoft.extensions.identity.stores/5.0.11/microsoft.extensions.identity.stores.5.0.11.nupkg.sha512",
+    "/home/jackson/.nuget/packages/microsoft.extensions.logging/5.0.0/microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "/home/jackson/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0/microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "/home/jackson/.nuget/packages/microsoft.extensions.options/5.0.0/microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "/home/jackson/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "/home/jackson/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/home/jackson/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "/home/jackson/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "/home/jackson/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "/home/jackson/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "/home/jackson/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "/home/jackson/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
+    "/home/jackson/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "/home/jackson/.nuget/packages/system.diagnostics.diagnosticsource/5.0.1/system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
   ],
   "logs": []
 }
