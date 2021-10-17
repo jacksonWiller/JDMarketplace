@@ -4,10 +4,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity;
 
-namespace IdentityWithDapper.Models
+namespace JDMarketplace.Domain.Entity.User
 {
     // Add profile data for application users by adding properties to the ApplicationUser class
-    public class ApplicationUser
+    public class User
     {
         public int Id { get; set; }
 
